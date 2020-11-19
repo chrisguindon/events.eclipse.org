@@ -6,7 +6,6 @@ summary: "The first ever EclipseCon was an exciting event that demonstrated the 
 page_favicon: "2004/eclipsecon/favicon.ico"
 type: "eclipsecon"
 layout: "section"
-eclipsecon_archive_css: "eclipsecon-2004.css"
 ---
 
 {{< eclipsecon/2004 >}}
